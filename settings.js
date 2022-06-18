@@ -20,8 +20,8 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
+global.premium = ['941328832']
+global.ownernomer = '941328832'
 global.ownername = '🐦Star Boy Nexus'
 global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
